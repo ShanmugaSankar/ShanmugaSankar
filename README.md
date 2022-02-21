@@ -1,6 +1,6 @@
 # Shanmuga Sankar Balamurugan
 
-I am an MS Data Science student with 3 years of expirience in the Data Science field witht the goal of becoming a better Data Scientist/Machine Learning Engineer.
+I am an MS Data Science student at NJIT and have worked as a Data Scienctist for 3 years. 
 
 <!---
 ShanmugaSankar/ShanmugaSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
