@@ -1,60 +1,32 @@
-# 👋 Hi, I'm Shanmuga Sankar
+# Shanmuga Sankar Balamurugan
 
-🎯 **Lead Data Analyst at SuperOps** | 📊 **SaaS | CEO’s Office**  
-🚀 Driving Modern Data Infrastructure | 🛠 Python • BigQuery • GCP • MLOps (In Progress)
+Data & AI · Python · GCP · LLMs
 
----
-
-## 💼 About Me
-
-I'm currently a **Lead Data Analyst** at **SuperOps**, a fast-growing SaaS company, where I work directly with the **CEO’s Office** to scale data operations and business intelligence.
-
-I specialize in building modern analytics systems that automate data ingestion, transformation, and reporting across departments—enabling smarter, faster decisions.
-
-Previously, I earned a **Master’s in Data Science** and worked as a **Decision Scientist at Mu Sigma**, solving high-impact problems in pharma and energy domains.
+At SuperOps (2 years, RevOps / CEO's Office), I've built Python ETL pipelines, BigQuery data marts, FastAPI services, and a modular sales pipeline package — Champion performance rating two years running (2024 & 2025). Background: decision science at Mu Sigma, MS in Data Science (NJIT). Currently building ML + LLM systems with the Anthropic API and GCP Cloud Run. GCP Professional Data Engineer cert in progress (exam Jul 2026).
 
 ---
 
-## 🧠 Skills & Tools
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🧰 Tech Stack
+### GCP
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Pub/Sub](https://img.shields.io/badge/Pub%2FSub-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Cloud Scheduler](https://img.shields.io/badge/Cloud_Scheduler-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-**Languages & Analytics**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+### ML & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6B21A8?style=flat&logoColor=white)
 
-**Cloud & Data Engineering**  
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Pub/Sub](https://img.shields.io/badge/Pub/Sub-34A853?style=for-the-badge&logo=googlecloud&logoColor=white)  
-![Cloud Scheduler](https://img.shields.io/badge/Cloud%20Scheduler-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)  
-
-**Business Intelligence**  
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)  
-
-**Version Control & Collaboration**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)  
-
----
-
-## 🔭 Current Focus
-
-- 🌩️ Building scalable, real-time analytics with **GCP**
-- 🧱 Designing low-maintenance data workflows using **CI/CD pipelines**
-- 🧠 Preparing for **Google Cloud Data Engineer & ML Engineer Certifications**
-- 🎯 Aligning business KPIs with actionable dashboards across teams
+### Tools
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Google Data Studio](https://img.shields.io/badge/Data_Studio-4285F4?style=flat&logo=google&logoColor=white)
 
 ---
 
-## 📫 Connect With Me
-
-- [LinkedIn – Shanmuga Sankar Balamurugan](https://www.linkedin.com/in/shanmuga-sankar-balamurugan-403099147/)
-- [GitHub – ShanmugaSankar](https://github.com/ShanmugaSankar)
-
----
-
-## 📊 GitHub Stats
-
-![Shanmuga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShanmugaSankar&show_icons=true&theme=tokyonight)
+[LinkedIn](https://linkedin.com/in/shanmuga-sankar-balamurugan-403099147/)
